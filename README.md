@@ -7,3 +7,4 @@ Being a full-time bootcamp student and maintaining a job, making time for studyi
 ## Usage 
 
 To use, add task to appropriate time slot and click the save button on the right. 
+![image](https://user-images.githubusercontent.com/117704967/211242762-598e9b7b-6544-4fc3-89a7-999429e8fe86.png)
